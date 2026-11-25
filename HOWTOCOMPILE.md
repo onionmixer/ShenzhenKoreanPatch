@@ -6,11 +6,10 @@
 - Visual Studio 2022 또는 Build Tools의 **C++ 데스크톱 개발**, MSVC x86/x64와 Windows SDK
 - Visual Studio의 Roslyn C# 컴파일러와 빌드 시 사용할 `Mono.Cecil.dll`
 - 지원하는 Windows Steam판 SHENZHEN I/O 원본 설치본
-- 사용자 제공 한글 PDF 매뉴얼
 
 스크립트는 설치된 Android .NET SDK 또는 Visual Studio 테스트 플랫폼 폴더에서 Cecil을 찾습니다. 별도 설치본을 사용하려면 `-CecilPath`에 DLL의 경로를 지정합니다. 로컬 빌드에서 확인한 Cecil은 `.NET Android SDK 35.0.78`에 포함된 버전입니다.
 
-한글 PDF는 `inputs/SHENZHEN IO Manual (Korean).pdf`에 넣거나 `-ManualPath`로 지정합니다. 파일 이름에 관계없이 PDF의 SHA-256은 `b2dda4ada609f1bc766d2983e3199c9c65167acfcf1c33d6803b4614c29db121`이어야 합니다. [한글 매뉴얼 출처](https://blog.naver.com/dpotudf0/220956199248)
+빌드는 저장소에 포함된 `inputs/SHENZHEN IO Manual (Korean).pdf`를 기본으로 사용합니다. 다른 경로의 같은 파일을 쓰려면 `-ManualPath`로 지정합니다. 파일 이름에 관계없이 PDF의 SHA-256은 `b2dda4ada609f1bc766d2983e3199c9c65167acfcf1c33d6803b4614c29db121`이어야 합니다. [한글 매뉴얼 출처](https://blog.naver.com/dpotudf0/220956199248)
 
 ## 컴파일
 
@@ -36,7 +35,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\build.ps1 `
 - `release/ShenzhenKoreanPatcher.exe` · 단일 실행 파일
 - `release/ShenzhenKoreanPatch-v0.8-win32.zip` · 같은 실행 파일을 압축한 배포본
 
-버전은 루트의 `VERSION`에서 읽습니다. 빌드 중간 산출물, 원본 PDF 입력, 배포 바이너리는 Git에서 제외됩니다.
+버전은 루트의 `VERSION`에서 읽습니다. 빌드 중간 산출물과 ZIP 배포본은 Git에서 제외됩니다.
 
 ## 디렉터리
 
