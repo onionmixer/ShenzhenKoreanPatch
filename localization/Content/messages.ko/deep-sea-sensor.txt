@@ -1,0 +1,34 @@
+﻿Subject: 해양 감시 시스템
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+해양 감시 시스템에 들어갈 심해 감지 장비를 생산하기로 계약했습니다. 각 관측소는 수동 소나와 자기 이상 감지 센서로 데이터를 계속 기록하고, 원격 검토를 위한 무선 업링크도 갖춥니다. 말할 필요도 없겠지만 견고하고 신뢰할 수 있어야 합니다.
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+누구한테 들어가는 장비인지 물어봐도 돼요?
+
+-----------
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+물어봐도 돼요.
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+누구한테 들어가는데요?
+
+-----------
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+쑨하오톈이요.
+
+----------- (Completion)
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+자랑스러워할 만한 일이 있었습니다. 쑨 선생님이 부품을 인수하며 ‘룽텅의 엔지니어링’을 콕 집어 칭찬하셨어요. 우리 모두 서로 격려해 줍시다! 앞으로 그분의 계획에서 우리가 큰 역할을 할 것 같아요.
+
+-----------
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+룽텅 최고!!!

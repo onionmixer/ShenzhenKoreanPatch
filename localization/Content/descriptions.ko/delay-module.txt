@@ -1,0 +1,3 @@
+﻿* *control-in*은 공장 설비에 연결된 단순 입력입니다.
+* *control-out*은 다른 공장 설비에 연결된 단순 출력입니다.
+* *control-in*의 신호에 2를 곱해 *control-out*에 보내세요.

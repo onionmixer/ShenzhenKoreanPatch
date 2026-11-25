@@ -1,0 +1,25 @@
+﻿Subject: 인터페이스
+From: Kamran Farzan <k.farzan@neuro.avalon>
+CC: N. Pinsker <n.pinsker@elec.avalon>, J. Thiele <j.thiele@elec.avalon>
+
+현재 설계에 맞는 전용 보드를 만들어 봅시다.
+
+-----------
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+캄란, 자기소개는 했어요?
+
+-----------
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+누군가는 인사할 틈도 없이 바쁜가 보네요! 캄란은 저수준 뇌-컴퓨터 인터페이스 설계를 이끌고 있어요. NETHUNS 프로젝트의 일부예요!
+
+----------- (Completion)
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+이걸로 필요한 게 해결됐습니까?
+
+-----------
+From: Kamran Farzan <k.farzan@neuro.avalon>
+
+지금은요.

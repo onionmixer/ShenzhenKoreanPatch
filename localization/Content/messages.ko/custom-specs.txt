@@ -1,0 +1,41 @@
+﻿Subject: 사용자 지정 사양
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+테스트에 쓰는 사양이 어디서 나오는지 궁금했나요? conceptSPEC이라는 작은 프로그램으로 만듭니다.
+
+이제 원한다면 직접 사양을 만들 수 있을 것 같아서 바탕 화면에 바로가기를 넣어 뒀어요.
+
+conceptSPEC이 딱히 근사한 프로그램은 아니지만, 쓸 만은 해요. 어차피 다른 선택지도 없잖아요.
+
+-----------
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+좋은 사양에서 좋은 설계가 나옵니다. 사양이 부실하면 설계도 부실해진다는 점을 기억하십시오.
+
+장제
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+음, 좋은 사양에서 부실한 설계가 나오는 것도 엄청 많이 봤는데요…
+
+----------- (Workshop)
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+사양을 잘 작성했습니다.
+
+언젠가 제 자리를 맡을 수도 있겠군요.
+
+장제
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+장제, 은퇴는 절대 안 돼요. 제가 허락하지 않을 겁니다.
+
+-----------
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+이 일을 한 지 거의 40년 됐습니다. 앞으로 40년 더 하면 지칠지도 모르겠군요.
+
+장제

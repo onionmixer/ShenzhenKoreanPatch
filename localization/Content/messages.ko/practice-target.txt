@@ -1,0 +1,47 @@
+﻿Subject: 사격 연습
+From: Enzo Capretti <e.capretti@avalon.avalon>
+CC: S. Pham <s.c.pham@elec.avalon>
+
+어떻게 생각합니까?
+
+-
+
+전달된 메시지:
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+To: Security <security@avalon.avalon>
+
+새 장비는 어떻습니까?
+
+-
+
+From: Security <security@avalon.avalon>
+To: Enzo Capretti <e.capretti@avalon.avalon>
+
+비살상 장비는 작동하지만 재래식 무기와 발사 방식이 다릅니다. 특히 탄도가 조금 달라 경비 인력 대부분이 익숙해질 기회가 없었습니다. 연습할 사격장이 생기면 장비를 쓰기가 한결 편해질 것 같습니다.
+
+-
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+To: Security <security@avalon.avalon>
+
+리사에 따르면 해당 부서에 이 일을 맡을 전자 엔지니어가 있다고 합니다. 전달하겠습니다.
+
+----------- (Completion)
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+전달된 메시지:
+
+-
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+To: Security <security@avalon.avalon>
+
+이제 연습 사격장을 이용할 수 있습니까?
+
+-
+
+From: Security <security@avalon.avalon>
+To: Enzo Capretti <e.capretti@avalon.avalon>
+
+네, 잘 돌아갑니다. 벌써 명중률이 오르는 게 보입니다. 수치는 곧 보내겠습니다. 해결해 주셔서 감사합니다.

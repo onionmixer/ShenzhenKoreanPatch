@@ -1,0 +1,4 @@
+* text=auto
+/localization/Content/** -text
+*.png binary
+*.cs text eol=lf

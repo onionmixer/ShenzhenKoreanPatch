@@ -1,0 +1,20 @@
+﻿Subject: 펄스 발생기
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+새 제조 장비를 시험하려면 특정 사양을 충족하는 펄스 발생기가 필요합니다. 시중 가격에 사들이는 대신 직접 만드는 게 어떨까 합니다.
+
+장제
+
+-----------
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+이번 과제에는 *조건부 실행*이 필요합니다. 언어 참조 문서를 계속 공부해 주십시오.
+
+장제
+
+----------- (Completion)
+From:张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+좋습니다. 우리 용도에 맞습니다.
+
+장제

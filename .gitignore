@@ -1,0 +1,10 @@
+/build/
+/inputs/*
+!/inputs/.gitkeep
+/release/*
+!/release/.gitkeep
+/.vs/
+**/__pycache__/
+*.obj
+*.pdb
+*.user

@@ -1,0 +1,32 @@
+﻿Subject: 공장용 교체 모듈
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+공장에 제어 신호를 증폭해야 하는 오래된 설비가 몇 대 있습니다. 이런 기계의 신호를 조정하는 장치가 있었는데 최근에 고장 났습니다. 산산조각이 났습니다.
+
+입력의 사용법을 익히기에 적당한 과제입니다.
+
+장제
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+산산조각이요?? 잠깐만요. 무슨 일이 있었어요? 다들 괜찮아요?
+
+-----------
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+걱정할 필요 없습니다.
+
+장제
+
+----------- (Completion)
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+좋습니다. 감사합니다.
+
+장제
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+몸조심해요, 알겠죠?

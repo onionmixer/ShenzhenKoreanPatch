@@ -1,0 +1,13 @@
+﻿* *error*는 오류가 있을 경우 원자로의 현재 오류를 나타내는 XBus 입력입니다.
+* *power*는 발전기의 현재 출력 전력을 나타내는 단순 입력입니다.
+* *temp*는 원자로 노심의 현재 온도를 나타내는 단순 입력입니다.
+* *control*은 원자로 제어봉의 현재 상태를 나타내는 단순 입력입니다.
+* *display*는 LX900C 맞춤형 LCD에 대응하는 XBus 디스플레이 출력입니다.
+* *display*를 계속 갱신해 원자로의 현재 상태를 표시하세요.
+
+##############
+
+* *display* 세그먼트를 켜려면 해당 세그먼트의 ID를 XBus로 *display*에 보내세요. *display* 세그먼트를 끄려면 해당 ID에 -1을 곱해 보내세요.
+* *display*의 모든 세그먼트를 끄려면 XBus로 -999를 *display*에 보내세요.
+* *error*에서 값을 읽을 수 있으면 그 값을 그대로 *display*에 보내 해당 *error* 표시등을 켜거나(양수) 끄세요(음수).
+* 매뉴얼의 ‘보충 자료(Supplemental Data)’에 *display*의 맞춤형 LCD 사양(CUSTOM LCD SPECIFICATIONS)과 각 상태 정보를 표시하는 방법이 있습니다.

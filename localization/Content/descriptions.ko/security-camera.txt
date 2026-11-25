@@ -1,0 +1,2 @@
+﻿* *active*와 *network*는 LED에 연결된 단순 출력입니다.
+* 검증 탭에 표시된 대로 *active*와 *network* 출력을 일정한 반복 신호로 제어하세요.

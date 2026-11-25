@@ -1,0 +1,44 @@
+﻿Subject: 게임 한번 즐겨 보세요
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+딸이 프로그래밍을 배우고 있습니다. 간단한 카드 게임을 만들었습니다.
+
+한번 해 보고 의견을 줄 분이 있습니까? 모두의 바탕 화면에 바로가기를 넣었습니다.
+
+아이는 게임 개발자가 되고 싶어 합니다.
+
+장제
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+와, 장제. 생각보다 훨씬 완성도가 높고 훨씬 어렵네요!
+
+따님이 꽤 까다로운 솔리테어를 만들었어요.
+
+되돌리기 기능이 있으면 어떨까요?
+
+-----------
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+아이는 실력이 조금 늘면 사실 꽤 쉬워지기 때문에 되돌리기는 필요 없다고 합니다.
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+아빠를 꼭 닮았네요.
+
+----------- (Solitaire)
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+너무 좋아요! 도저히 멈출 수가 없어요! 따님은 진짜 천재예요!
+
+-----------
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+장제, 따님에게 게임을 너무 잘 만들었다고 전해 주세요. 하이타오가 일을 할 수 있게 컴퓨터에서 지워야 할 정도예요.
+
+-----------
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+아아…

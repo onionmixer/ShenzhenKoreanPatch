@@ -1,0 +1,35 @@
+﻿Subject: 보안의 악몽
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+우리가 작은 게임기를 만들어 준 캡슐 호텔 업체 SleepCUBES 기억하죠? 이번엔 국가 신분증을 사용하는 자물쇠를 만들어 달래요. 개인정보 문제가 한두 가지가 아닌데, 손쉽게 복제할 수 있는 마스터 키로 어느 문이든 열 수 있답니다(!!!). 뭐, 일은 일이라고들 하잖아요.
+
+아마 그렇게들 말할 거예요.
+
+칼
+
+-----------
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+저 SleepCUBE에서 몇 번 자 봤어요. 나쁘지 않던데요!
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+클럽에서 쫓겨나기라도 했어요?
+
+-----------
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+고객사를 조사한 거예요! 제품이나 서비스를 직접 이용하면 회사를 잘 알 수 있죠. 건전한 기업 간 협력에서는 당연한 일이라고요!
+
+-----------
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+하. 조, 정말 많이 변했네요.
+
+----------- (Completion)
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+제가 본 보안 솔루션 중에 보안이 제일 엉망이에요. 투표 기계까지 만들어 본 제가 하는 말이라고요!
+
+SleepCUBES에서 묵게 되면 자물쇠는 직접 챙겨 가세요.

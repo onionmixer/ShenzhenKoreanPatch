@@ -1,0 +1,5 @@
+﻿* *audio-in*은 음원에 연결된 단순 입력입니다.
+* *audio-out*은 오디오 수신기에 연결된 단순 출력입니다.
+* *maximize*는 스위치에 연결된 단순 입력입니다.
+* *audio-in*의 신호를 *audio-out*으로 보내세요. *maximize* 스위치가 켜져 있을 때는 고조파 최대화 알고리즘(HARMONIC MAXIMIZATION ALGORITHM)을 적용하세요.
+* 매뉴얼의 ‘보충 자료(Supplemental Data)’ 절에 고조파 최대화 알고리즘이 실린 광고가 있습니다.
